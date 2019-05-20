@@ -1,0 +1,133 @@
+﻿<!doctype html>
+<html>
+<head>
+</head>
+<body>
+
+<header>
+<h1>Maruthi Technologies</h1>
+<img src="E:\pic.jpg" alt="logo" height="100px" width="100px">
+<button class="tablink" onclick="open('Home', this, 'red')" id="defaultOpen">Home</button>
+<button class="tablink" onclick="open('Services', this, 'green')">Services</button>
+<button class="tablink" onclick="open('Products', this, 'blue')">Products</button>
+<button class="tablink" onclick="open('About', this, 'orange')">About</button>
+<button class="tablink" onclick="open('Contact Us', this, 'orange')">Contact Us</button>
+
+</header>
+<p>
+    Maruthi Technologies is the Barcode Solution providing Company that focuses<br> on Data Collection, Asset Tracking and Label Printing.</p>
+<br>
+<p1>Maruthi Technologies provides the products of Label Printer, Barcode Reader, Thermal Transfer Ribbons, Barcode Labels, ID Card Printers<br> and Software likes Inventory Management, Label Printing, Asset Tracking, ID Card Printing, POS Billing Software. We serve to Retail, Industrial,<br> Hospital, Institutions, Government Organisations, Transportation, Logistics and more.</p1>
+<br>
+<br>
+<h2><center>Our Services and Solutions</center></h2>
+<ul>
+    <li><p2><b>Label Printing and Pre Printed Labels</b></p2></li>
+    <br>
+    <p3>Our label printing tool is minimized your<br> work and save the time. You can use our<br> Label printing tool to select your <br>customized options and other label<br> features, or we can create a custom label <br>solution that is tailored to your unique<br> requirements.</p3>
+    <li><h3><b>Barcode Solutions</b></h3></li>
+    <p4>Need help planning a barcode system for<br> your warehouse or office? We’ve helped<br> thousands of companies identify a<br> barcode labeling system that meets their<br> unique needs. Our experts are here to help <br>you select the right software, hardware and<br> labels.</p4>
+    <li><h4><b>Our Services</b></h4></li>
+    <p5>We use only high quality raw materials for the<br> production of our Barcode Ribbons. Industries like<br> Manufacturing units, Retail Stores, Pharma<br> industries, Automobile industries, Logistics and many<br> other places use our Barcode Ribbons...</p5>
+</ul>
+<br>
+<br>
+<br>
+<h5><b>ABOUT US</b></h5>
+<p6>Maruthi Technologies provide the solutions of tracking technologies,Solutions and Products.Our solutions that generate actionable information and insight, giving companies unprecedented<br> visibility into their businesses by giving physical things a digital voice.</p6>
+<br>
+<br>
+<h6><b>OUR PRODUCTS</b></h6>
+    <figure>
+    <img src="https://wagtailgroups.com/images/products/postek_em210.png" alt="Postek EM210 Barcode Printer" >
+    <figcaption>Postek EM210 Barcode Printer</figcaption>
+<img src="https://wagtailgroups.com/images/products/honeywell_mk5145.jpg" alt="Honeywell MS5145 Laser Scanner">
+<figcaption>Honeywell MS5145 Laser Scanner</figcaption>
+<img src="https://wagtailgroups.com/images/products/direct_thermal_labels.jpg"alt="Direct Thermal Labels">
+<figcaption>Direct Thermal Labels</figcaption>
+<img src="https://wagtailgroups.com/images/products/chromo_labels.jpg"alt="Chromo Barcode Labels">
+<figcaption>Chromo Barcode Labels</figcaption>
+<h6>OUR TEAM</h6>
+<figure>
+    <img src="E:\aakash backup\Camera\IMG_20170623_135516.jpg" alt="Marketing Manager" height="200px" width="250px" align="left">
+    <figcaption>Marketing manager</figcaption>  
+    <img src="E:\aakash backup\Camera\IMG_20180304_085036_1.jpg" alt="CEO" height="200px" width="250px" align="middle">
+    <figcaption>CEO</figcaption>
+</figure>
+</body>
+</html>
+
+
+
+
+<style>
+h1{
+	text-align:center;
+	font-size:40px;
+	font-style:oblique;
+	font-family:Comic Sans MS;
+        color:#00cccc;
+}
+p{
+	text-align:center;
+	font-size:30px;
+	font-family:Comic Sans MS;
+	font-style:bold;
+	font-color:grey;
+}
+p1{
+
+	font-family:Comic Sans MS;
+	font-size:20px;
+        text-align: center;
+}
+ul{
+    
+}
+p2{
+    font-family: Comic Sans MS;
+    font-size: 20px;
+     
+    }
+p3{
+    font-family: serif;
+    
+    
+}
+h2{
+    text-align: center;
+    font-size:30px;
+    font-family:Comic Sans MS;
+
+}
+figcaption{
+float:left;
+width:100%;
+color: grey;
+font-size:30px;
+}
+h3,h4{
+font-size:20px;
+font-family: Comic Sans MS;
+
+}
+h5{
+font-size:30px;
+text-align: center;
+    font-family: Comic Sans MS;
+    }
+    p6{
+    font-size:18px;
+    text-align:center;
+    font-family:serif;
+    }
+    h6{
+      text-align:center;
+      font-size:25px;
+      font-family: Comic Sans MS;
+      
+    }
+
+
+
+</style>
